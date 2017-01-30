@@ -1,0 +1,3 @@
+module RailsJsViews
+  # Your code goes here...
+end
